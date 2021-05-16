@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BestMovies</string>
+    <string name="title">Title</string>
+    <string name="popularity">Popularity</string>
+    <string name="rating">Rating</string>
+
+    <string name="popularity_text">Popularity: %1$1.0f</string>
+    <string name="rating_text">Rating: %1$1.0f</string>
+</resources>
